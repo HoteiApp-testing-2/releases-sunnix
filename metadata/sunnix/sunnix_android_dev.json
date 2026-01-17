@@ -7,6 +7,6 @@
   "release_url": "https://github.com/HoteiApp-testing-2/releases-sunnix/releases/download/v0.0.1-android-dev-c8c86ea/sunnix-Android-v0.0.1-dev-c8c86ea.apk",
   "all_releases_url": "https://github.com/HoteiApp-testing-2/releases-sunnix/releases",
   "date": "2026-01-17",
-  "required": true,
+  "required": false,
   "min_version": "0.0.1"
 }
